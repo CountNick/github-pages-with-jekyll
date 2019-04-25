@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Count Nickula
 
-I'm glad you are here. I plan to talk about ...
+* CMD Amsterdam
+* Blok Tech
+* Trying to gain more knowledge about JS
